@@ -6,7 +6,7 @@ Unlocks the black theme and bonus settings.
 
 ## Install
 
-Download and install the prebuilt [apk](dpp-aligned-debugSigned.apk?raw=1)
+Download and install the prebuilt apk from the [Releases](https://github.com/j4k0xb/devRant-apk-mod/releases/latest/download/dpp.apk)
 
 ## Development
 
