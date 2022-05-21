@@ -1,0 +1,5 @@
+{
+  "scripts": [
+    "ti.playservices/ti.playservices.bootstrap"
+  ]
+}
